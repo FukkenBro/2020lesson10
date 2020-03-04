@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class task2 extends Application {
+public class Task2 extends Application {
 
     static final Random RANDOM = new Random();
     private static final int BOARD_X = 800;

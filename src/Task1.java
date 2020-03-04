@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 import java.util.Random;
 
 
-public class task1 extends Application {
+public class Task1 extends Application {
 
     private static final Random RANDOM = new Random();
     private static final int BOARD_WIDTH = 800;
